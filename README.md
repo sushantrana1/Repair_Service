@@ -58,43 +58,6 @@ This project is built using **React**, **Vite**, and **Tailwind CSS**, focusing 
 
 ---
 
-## 📂 Project Structure
-
-```text
-Frontend_Repair_Service/
-│
-├── public/
-│   └── logo.png
-│
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   │
-│   ├── components/
-│   │   ├── About/
-│   │   ├── Contact/
-│   │   ├── FAQ/
-│   │   ├── Footer/
-│   │   ├── Hero/
-│   │   ├── Navbar/
-│   │   ├── Services/
-│   │   └── WhyChooseUs/
-│   │
-│   ├── pages/
-│   │   ├── Home.jsx
-│   │   ├── About.jsx
-│   │   ├── Services.jsx
-│   │   └── Contact.jsx
-│   │
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── package.json
-└── README.md
-```
-
----
-
 ## 🚀 Installation
 
 Clone the repository
